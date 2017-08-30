@@ -1,0 +1,4 @@
+Options All -Indexes
+AddType text/cache-manifest .manifest
+
+Satisfy any
